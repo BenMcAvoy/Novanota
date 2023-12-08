@@ -1,0 +1,4 @@
+[workspace]
+members = [ "novanota-server", "novanota-client" ]
+default-members = [ "novanota-server" ]
+resolver = "2"
