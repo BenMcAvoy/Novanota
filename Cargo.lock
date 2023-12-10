@@ -9,3 +9,12 @@ version = "0.1.0"
 [[package]]
 name = "novanota-server"
 version = "0.1.0"
+dependencies = [
+ "rustigo",
+]
+
+[[package]]
+name = "rustigo"
+version = "1.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "02a9c94e428647c3a15f1d959d2b46fab37c43816955c35b77eef5de546ad1fe"
